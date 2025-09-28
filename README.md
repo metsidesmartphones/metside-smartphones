@@ -1,6 +1,6 @@
 
 
-[deepseek_html_20250928_dcd316 (1).html](https://github.com/user-attachments/files/22582612/deepseek_html_20250928_dcd316.1.html)
+
 <!DOCTYPE html>
 <html lang="pt">
 <head>
